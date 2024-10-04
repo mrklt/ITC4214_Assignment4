@@ -1,0 +1,24 @@
+h1 {
+    color: darkgreen;
+    text-align: center;
+}
+p {
+    color:beige;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+div{
+    background-color: darkgreen;
+    border:5px solid;
+    margin:auto;
+}
+p.instructions {
+    color:black;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
